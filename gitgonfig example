@@ -1,0 +1,10 @@
+[user]
+	mail = <your mail>
+	name = <your name
+	email = <your mail>
+[credential]
+	helper = store
+[sequence]
+	editor = code --wait --reuse-window
+[core]
+	editor = code --wait

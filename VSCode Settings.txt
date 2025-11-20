@@ -1,0 +1,48 @@
+{
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.codeLens.enabled": false,
+    "files.autoSave": "afterDelay",
+    "git.allowForcePush": true,
+    "[git-commit]": {
+        "editor.rulers": [
+            {
+                "column": 50,
+                "color": "#ffffff"
+            },
+            {
+                "column": 72,
+                "color": "#ffffff"
+            },
+        ]
+    },
+    "[python]": {
+        "editor.rulers": [
+            88,
+            120
+        ]
+    },
+    "git.autofetch": true,
+    "git.autoStash": true,
+    "git.confirmSync": false,
+    "git-graph.dialog.rebase.launchInteractiveRebase": true,
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "jupyter.askForKernelRestart": false,
+    "editor.formatOnSave": true,
+    "python.testing.pytestEnabled": true,
+    "diffEditor.renderSideBySide": false,
+    "editor.rulers": [],
+    "python.languageServer": "Pylance",
+    "python.analysis.completeFunctionParens": true,
+    "git.closeDiffOnOperation": true,
+    "git.autofetchPeriod": 300,
+    "git.fetchOnPull": true,
+    "git.pruneOnFetch": true,
+    "git.rebaseWhenSync": true,
+    "workbench.startupEditor": "none",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.stickyScroll.enabled": true,
+    "git.enableSmartCommit": true,
+    "gitlens.views.branches.branches.layout": "list",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+}
